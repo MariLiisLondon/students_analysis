@@ -1,5 +1,12 @@
-# students_analysis
+# Academic Performance and Retention Study
+###Authors
 
-Tudengite õpiedukuse monitoorimine ainete kaupa. Vaadata, millised näitajad on seotud väljalangemisega. Eesmärk ennetada tudengite väljalangemist.
+##Objectives / Aim
 
-Kontakt Tallinna Tervishoiu Kõrgkool
+##Dataset
+
+##Methods
+
+##Results
+
+##Conclusion
