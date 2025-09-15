@@ -3,7 +3,7 @@
 * `Applications and tools used: spreadsheets and data processing (Excel, Power Query), database management and queries (DBeaver, SQL), data analysis and visualization (Power BI, DAX), coding and project management (Python, Jupyter Notebook, Visual Studio Code), collaboration and version control (GitHub).`
 * Project authors:
   - Mari Rõõmusoks, `LinkedIn ja github link siia panna`
-  - Anneli Vorms, `LinkedIn ja github link siia panna`
+  - Anneli Vorms, https://github.com/anvorm/andmetarkus, https://www.linkedin.com/in/anneli-vorms-a81231283/
   - Mari-Liis London, `LinkedIn ja github link siia panna`
 
 ---
